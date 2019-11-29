@@ -12,7 +12,7 @@ import math as m
 # WBT   - Wet bulb temperature          - Kelvins, K
 
 # Minimum dry bulb temperature
-Min_DBT=273.15
+Min_DBT=253.15
 # Maximum dry bulb temperature
 Max_DBT=473.15
 # Convergence tolerance
